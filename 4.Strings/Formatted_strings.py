@@ -1,0 +1,6 @@
+first = "Arvind"
+last = "Jangid"
+Message = first + ' [' + last + '] ' + 'is a coder'
+msg = f"{first}  [{last}]  is a coder"
+print(msg)
+print(Message)
